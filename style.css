@@ -1,0 +1,32 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    margin-top:50px;
+}
+
+input{
+    padding:10px;
+}
+
+button {
+    padding:10px;
+    cursor:pointer;
+    background-color: black;
+    color: white;
+}
+
+li{
+    list-style:none;
+    margin: auto 10px;
+    padding: 10px;
+    background-color:rgb(197, 194, 194);
+    max-width: 350px;
+
+}
+
+ul{
+   
+}
+
+
+
